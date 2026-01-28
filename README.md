@@ -1,1 +1,1 @@
-read me dosyası ekleme
+çok güzel bir repo oldu
